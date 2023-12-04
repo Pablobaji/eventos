@@ -1,0 +1,12 @@
+.button{
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    color: white;
+    box-shadow: 5px 5px 5px green;
+    border-radius: 15px;
+}
+
+button:active{
+    background-color: aqua;
+}
